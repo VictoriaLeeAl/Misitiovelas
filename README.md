@@ -13,4 +13,4 @@ Se presentan características de los productos, imágenes ilustrativas y links d
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _cover_.
 
 ### Vista Previa del Proyecto
-![Demo](imagenes/sitiolumos.png)
+![Demo](imagenes/sitiolumos.png
